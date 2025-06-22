@@ -1,1 +1,2 @@
 # SpotifyClone
+Tech used: Flutter
